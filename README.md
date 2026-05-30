@@ -1,5 +1,5 @@
 # README.md
-# Tarea 1 — Arreglos unidimensionales
+# Tarea — Arreglos unidimensionales
 
 Ejercicios básicos de estructura de datos usando arreglos
 unidimensionales en C#.
